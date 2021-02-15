@@ -1,3 +1,5 @@
+# Directinal Detection
+
 This repo stores some of the scripts used for my 2020 NSS work.
 
 Goal: Using an array of 4 stationary NaI bricks, predict the angle of a gamma source.
