@@ -1,4 +1,4 @@
-# Directinal Detection
+# Directional Detection
 
 This repo stores some of the scripts used for my 2020 NSS work.
 
